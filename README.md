@@ -11,6 +11,7 @@ My interest in quantitative trading and financial markets drove me to explore pa
 Technologies Used :
 
 Jupyter Notebook
+
 Libraries: pandas, numpy, matplotlib, statsmodels, yfinance
 
 Features : 
