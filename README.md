@@ -17,6 +17,6 @@ Libraries: pandas, numpy, matplotlib, statsmodels, yfinance
 Features : 
 
 Data Fetching: Automatically fetches historical stock data using the yfinance API.
-Exploratory Data Analysis: Includes correlation tests and visualizations to understand the relationship between the stocks.
+Exploratory Data Analysis: Includes cointegration tests and visualizations to understand the relationship between the stocks.
 Strategy Implementation: Implements the pairs trading strategy with clear, documented Python code.
 Backtesting: Backtests the strategy to evaluate its effectiveness and profitability over the past data.
